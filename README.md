@@ -9,3 +9,6 @@ QGIS and QGIS requirements can be downloaded from KyngChaos: http://www.kyngchao
 
 To view data on a web map, download the Openlayers_plugin for QGIS:
 https://plugins.qgis.org/plugins/openlayers_plugin/
+
+
+Long list of Colorado open source data: https://wiki.openstreetmap.org/wiki/Potential_Datasources#Colorado
