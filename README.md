@@ -12,3 +12,7 @@ https://plugins.qgis.org/plugins/openlayers_plugin/
 
 
 Long list of Colorado open source data: https://wiki.openstreetmap.org/wiki/Potential_Datasources#Colorado
+
+How to convert Shapefiles to GeoJSON: 
+http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/
+http://ogre.adc4gis.com/
