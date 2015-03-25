@@ -1,4 +1,4 @@
-# Colorado_Oil_Gas_Data
+# Colorado Oil And Gas Data
 Colorado Oil and Gas Data from COGCC GIS Online
 
 Colorado Oil and Gas Data can be found here:  http://cogcc.state.co.us/Home/gismain.cfm
