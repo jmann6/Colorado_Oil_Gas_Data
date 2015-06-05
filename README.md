@@ -13,7 +13,7 @@ http://ogre.adc4gis.com/
 
 
 ##Shapefile Info
-Shapefile data can be viewed using ESRI products or the free and open source version QGIS: http://www2.qgis.org/en/site/forusers/download.html
+Shapefile data can be viewed using ESRI products or the free and open source QGIS: http://www2.qgis.org/en/site/forusers/download.html
 
 QGIS and QGIS requirements can be downloaded from KyngChaos: http://www.kyngchaos.com/software/qgis
 
