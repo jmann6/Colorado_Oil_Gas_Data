@@ -11,6 +11,8 @@ http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on
 
 http://ogre.adc4gis.com/
 
+Another tool for point data conversion: http://geojson.io/#map=2/20.1/0.0
+
 
 ##Shapefile Info
 Shapefile data can be viewed using ESRI products or the free and open source QGIS: http://www2.qgis.org/en/site/forusers/download.html
