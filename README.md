@@ -2,6 +2,7 @@
 Colorado Oil and Gas Data from COGCC GIS Online
 
 Colorado Oil and Gas Data can be found here:  http://cogcc.state.co.us/data.html#/cogis
+Interactive GIS map (slow):  http://dnrwebmapgdev.state.co.us/mg2012app/
 
 Long list of Colorado open source data: https://wiki.openstreetmap.org/wiki/Potential_Datasources#Colorado
 
