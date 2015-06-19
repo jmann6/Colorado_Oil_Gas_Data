@@ -11,6 +11,8 @@ Long list of Colorado open source data: https://wiki.openstreetmap.org/wiki/Pote
 How to convert Shapefiles to GeoJSON: 
 http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/
 
+Quickly visualize GeoJSON data:  https://github.com/morganherlocker/geocolor
+
 http://ogre.adc4gis.com/
 
 Another tool for point data conversion: http://geojson.io/#map=2/20.1/0.0
