@@ -2,6 +2,7 @@
 Colorado Oil and Gas Data from COGCC GIS Online
 
 Colorado Oil and Gas Data can be found here:  http://cogcc.state.co.us/data.html#/cogis
+Permit Information: http://cogcc.state.co.us/COGIS/drillingpermits.asp
 
 API County Codes: http://cogcc.state.co.us/documents/about/COGIS_Help/API_County_codes.pdf
 
