@@ -15,6 +15,8 @@ Interactive GIS map (slow):  http://dnrwebmapgdev.state.co.us/mg2012app/
 
 Long list of Colorado open source data: https://wiki.openstreetmap.org/wiki/Potential_Datasources#Colorado
 
+Denver Post Article:  http://www.denverpost.com/datacenter/ci_27519246/colorado-oil-and-gas-wells-by-numbers
+
 ##GeoJSON
 How to convert Shapefiles to GeoJSON: 
 http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/
